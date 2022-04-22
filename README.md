@@ -1,0 +1,1 @@
+all you gotta do is copy the content of the dart file into the view news page of the MM game. It *should* work properly, but in case it doesn't I suggest hot reloading the Dart project after youve pasted it in
